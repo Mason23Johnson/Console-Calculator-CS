@@ -1,0 +1,14 @@
+F:\Programming\MasonJohnsonPortfolioProjects\Calculator\BasicCalculator\bin\Debug\net8.0\BasicCalculator.exe
+F:\Programming\MasonJohnsonPortfolioProjects\Calculator\BasicCalculator\bin\Debug\net8.0\BasicCalculator.deps.json
+F:\Programming\MasonJohnsonPortfolioProjects\Calculator\BasicCalculator\bin\Debug\net8.0\BasicCalculator.runtimeconfig.json
+F:\Programming\MasonJohnsonPortfolioProjects\Calculator\BasicCalculator\bin\Debug\net8.0\BasicCalculator.dll
+F:\Programming\MasonJohnsonPortfolioProjects\Calculator\BasicCalculator\bin\Debug\net8.0\BasicCalculator.pdb
+F:\Programming\MasonJohnsonPortfolioProjects\Calculator\BasicCalculator\obj\Debug\net8.0\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\MasonJohnsonPortfolioProjects\Calculator\BasicCalculator\obj\Debug\net8.0\BasicCalculator.AssemblyInfoInputs.cache
+F:\Programming\MasonJohnsonPortfolioProjects\Calculator\BasicCalculator\obj\Debug\net8.0\BasicCalculator.AssemblyInfo.cs
+F:\Programming\MasonJohnsonPortfolioProjects\Calculator\BasicCalculator\obj\Debug\net8.0\BasicCalculator.csproj.CoreCompileInputs.cache
+F:\Programming\MasonJohnsonPortfolioProjects\Calculator\BasicCalculator\obj\Debug\net8.0\BasicCalculator.dll
+F:\Programming\MasonJohnsonPortfolioProjects\Calculator\BasicCalculator\obj\Debug\net8.0\refint\BasicCalculator.dll
+F:\Programming\MasonJohnsonPortfolioProjects\Calculator\BasicCalculator\obj\Debug\net8.0\BasicCalculator.pdb
+F:\Programming\MasonJohnsonPortfolioProjects\Calculator\BasicCalculator\obj\Debug\net8.0\BasicCalculator.genruntimeconfig.cache
+F:\Programming\MasonJohnsonPortfolioProjects\Calculator\BasicCalculator\obj\Debug\net8.0\ref\BasicCalculator.dll
